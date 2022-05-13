@@ -6,6 +6,10 @@ Dieses Projekt enthält das Grundgerüst einer Webanwendung. Auf diesem Grundger
 
 Der aktuelle Stand ist der Zustand des Frontends bevor wir uns mit der IndexedDB beschäftigen. Das zugehörige Backend kann [hier](https://github.com/jfreiheit/IKT-PWA-BACKEND-01) geklont werden.
 
+Branches
+- vor_indexeddb
+
+
 ## Installation
 
 - Zum Ausführen des Projektes wird [Node.js](https://nodejs.org) verendet. Sie müssen es auf Ihren Rechner installieren. 
