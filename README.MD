@@ -1,6 +1,10 @@
-# Progressive Web Apps - Aktuelle Trends der IKT 2021
+# Progressive Web Apps - Aktuelle Trends der IKT 2022
 
-Dieses Projekt enthält das Grundgerüst einer Webanwendung. Auf diesem Grundgerüst bauen wir auf und fügen sukzessive *progressive* Funktionalitäten hinzu, so dass am Ende eine *Progressive Web Application* entsteht. 
+Dieses Projekt enthält das Grundgerüst einer Webanwendung. Auf diesem Grundgerüst bauen wir auf und fügen sukzessive *progressive* Funktionalitäten hinzu, so dass am Ende eine *Progressive Web Application* entsteht.
+
+## Stand und Branches
+
+Der aktuelle Stand ist der Zustand des Frontends bevor wir uns mit der IndexedDB beschäftigen. Das zugehörige Backend kann [hier](https://github.com/jfreiheit/IKT-PWA-BACKEND-01) geklont werden.
 
 ## Installation
 
@@ -8,7 +12,7 @@ Dieses Projekt enthält das Grundgerüst einer Webanwendung. Auf diesem Grundger
 
 - In der Wahl Ihrer IDE sind Sie völlig frei. Empfehlungen finden Sie unter [https://freiheit.f4.htw-berlin.de/ikt/tools/#integrated-development-environment-ide](https://freiheit.f4.htw-berlin.de/ikt/tools/#integrated-development-environment-ide)
 
-- Zum Starten des Projektes wechseln Sie im Terminal (Terminal Ihres Rechners oder das Terminal in der IDE) in den Projektordner (`cd IKT-PWA-01`) und führen dort 
+- Zum Starten des Projektes wechseln Sie im Terminal (Terminal Ihres Rechners oder das Terminal in der IDE) in den Projektordner (`cd IKT-PWA-04`) und führen dort 
 
 	`npm install` 
 
