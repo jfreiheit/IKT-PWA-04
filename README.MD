@@ -8,6 +8,9 @@ Der aktuelle Stand ist der Zustand des Frontends bevor wir uns mit der IndexedDB
 
 Branches
 - vor_indexeddb
+- nach_indexeddb
+
+siehe `git checkout --track origin/nach_indexeddb` 
 
 
 ## Installation
